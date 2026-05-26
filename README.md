@@ -29,4 +29,3 @@ Improve coding logic
 
 Prepare for technical interviews
 
-Practice frequently asked coding questions
